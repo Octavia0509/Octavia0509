@@ -4,21 +4,21 @@
 
 ## Statistiques
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Octavia0509)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Octavia0509)](https://github.com/Octavia0509)
 
 ## Développement
 
 * Langages les plus utilisés
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavia0509)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavia0509)](https://github.com/Octavia0509)
 
 * Mes projets
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Octavia0509&repo=discord-drops)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Octavia0509&repo=discord-drops)](https://github.com/Octavia0509/discord-drops)
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Octavia0509&repo=discord-levels)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Octavia0509&repo=discord-levels)](https://github.com/Octavia0509/discord-levels)
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Octavia0509&repo=dprofil)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Octavia0509&repo=dprofil)](https://github.com/Octavia0509/dprofil)
 
 ## Contact
 
